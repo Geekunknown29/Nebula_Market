@@ -1,2 +1,2 @@
 # Nebula_Market
-Nebula Market all resources nd files
+Nebula Market all resources and files
