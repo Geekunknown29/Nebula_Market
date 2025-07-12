@@ -11,6 +11,7 @@ NOTE: the project is still under devlopement &  While the platform may still hav
 
 
 #Project Description :
+
   Nebula Market is more than just a trading platform — it’s a powerful, supportive companion designed to guide people through the exciting (and sometimes intimidating) world of stock market investing.
   We started Nebula Market with one big goal: to make trading feel less like a gamble and more like a smart, confident journey anyone can take. We noticed that many people shy away from investing because it feels   complicated, risky, or only meant for finance experts. We wanted to change that mindset.
 
@@ -22,6 +23,7 @@ NOTE: the project is still under devlopement &  While the platform may still hav
 
 
 #Key Features and future goals :
+
   1)Personalized AI insights
     Our AI system explains market trends in clear, simple language, so you can make decisions confidently without feeling overwhelmed.
 
@@ -38,6 +40,7 @@ NOTE: the project is still under devlopement &  While the platform may still hav
     You’re never on this journey alone. Our team is always ready to help and answer questions, and you’ll be part of a supportive community of people working toward similar goals.
 
 #Contact Us :
+
   Have questions, ideas, or just want to say hi?
   Reach out to us at myselfarpit.gupta@gmail.com or create an issue here on GitHub. We’d be happy to connect!
 
